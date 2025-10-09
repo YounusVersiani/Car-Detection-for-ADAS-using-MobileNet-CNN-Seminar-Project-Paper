@@ -1,0 +1,3 @@
+﻿tensorflow
+opencv-python
+numpy
