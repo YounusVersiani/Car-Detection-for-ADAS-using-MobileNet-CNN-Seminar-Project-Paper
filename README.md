@@ -11,27 +11,25 @@ A lightweight CNN-based car detection demo built for Advanced Driver Assistance 
 1. Create a virtual environment  
 python -m venv .venv
 
-markdown
-Copy code
+
 2. Activate it  
 - Windows → .venv\Scripts\activate  
 - macOS/Linux → source .venv/bin/activate
+
+
 3. Install dependencies  
 pip install -r requirements.txt
 
-markdown
-Copy code
+
 4. Run the demo  
 python src/main.py
 
-shell
-Copy code
 
 ## 📁 Dataset
 Includes 100 demo frames (≈20 MB total) under data/ for quick testing.
 
 ## 📸 Results
-See visual outputs in ssets/.
+See visual outputs in assets/.
 
 ## 📄 License
 MIT License
