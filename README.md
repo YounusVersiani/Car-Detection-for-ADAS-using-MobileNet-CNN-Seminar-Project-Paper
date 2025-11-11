@@ -1,6 +1,6 @@
 ﻿# Car Detection for ADAS using MobileNet CNN (Seminar Project & Paper)
 
-A lightweight CNN-based car detection demo built for Advanced Driver Assistance Systems (ADAS) using MobileNetV2.
+A lightweight CNN-based car detection demo built for Advanced Driver Assistance Systems (ADAS) using MobileNet.
 
 ## 🎯 Features
 - Classifies and separates static vs moving car frames
