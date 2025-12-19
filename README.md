@@ -2,12 +2,12 @@
 
 A lightweight CNN-based car detection demo built for Advanced Driver Assistance Systems (ADAS) using MobileNet.
 
-## 🎯 Features
+## Features
 - Classifies and separates static vs moving car frames
 - Uses pre-trained MobileNet for efficient inference
 - Runs on CPU in under 10 minutes
 
-## 🚀 Quick Start
+## Quick Start
 1. Create a virtual environment  
 python -m venv .venv
 
@@ -25,11 +25,11 @@ pip install -r requirements.txt
 python src/main.py
 
 
-## 📁 Dataset
+## Dataset
 Includes 100 demo frames (≈20 MB total) under data/ for quick testing.
 
-## 📸 Results
+## Results
 See visual outputs in assets/.
 
-## 📄 License
+## License
 MIT License
